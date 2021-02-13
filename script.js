@@ -1,6 +1,8 @@
-var keyPress=document.querySelector(".btn");
+var txt = document.querySelector("#text-input");
 
-keyPress.addEventListener("click",function(){
-    
-    console.log("i was clicked");
+document.querySelector(".btn").addEventListener('click',function(){
+
+    document.querySelector(".output-class").innerHTML = "fdjfd "+txt.value
 })
+
+
