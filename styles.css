@@ -57,9 +57,12 @@
     padding: 10px 1rem;
     border-radius:2rem;
     border: 0px;
-    /* letter-spacing: 1px; */
     font-family: 'Press Start 2P', cursive;
     
+}
+
+.btn:hover{
+    cursor: pointer;
 }
 
 footer{
