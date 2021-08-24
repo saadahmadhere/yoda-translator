@@ -1,5 +1,5 @@
 # Yoda Speak
-An app made in Vanilla JS used for translating your language in the ones that Yoda speaks.
+An app made in Vanilla JS used for translating your language into the one that Yoda speak.
 
 ## How to Translate
 [Click here](https://yodictranslator.netlify.app/) to use the app.
